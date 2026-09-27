@@ -1,0 +1,639 @@
+{
+  "phrases": [
+    {
+      "gu": "Taru naam shu chhe",
+      "en": "What is your name?"
+    },
+    {
+      "gu": "Maru naam Meena chhe",
+      "en": "My name is Meena"
+    },
+    {
+      "gu": "Tara Daddy nu naam shu chhe?",
+      "en": "What is the name of your Daddy"
+    },
+    {
+      "gu": "Tara gaam nu naam shu chhe?",
+      "en": "What is the name of your town?"
+    },
+    {
+      "gu": "Mara kutara nu naam sunny chhe",
+      "en": "My dogs name is Sunny"
+    },
+    {
+      "gu": "Sunny Haran pachhal dode chhe",
+      "en": "Sunny is running behind Deer"
+    },
+    {
+      "gu": "Tobey sanbhale chhe",
+      "en": "Tobey is listening"
+    },
+    {
+      "gu": "Mare khavu chhe",
+      "en": "I want to eat"
+    },
+    {
+      "gu": "Mane Shaak Bhave chhe",
+      "en": "I like shaak"
+    },
+    {
+      "gu": "Hu dharai gayo",
+      "en": "I am full"
+    },
+    {
+      "gu": "Mane Oongh aave chhe",
+      "en": "I am feeling sleepy"
+    },
+    {
+      "gu": "Alok padi gayo",
+      "en": "Alok fell down"
+    },
+    {
+      "gu": "Meena oobni thai",
+      "en": "Meena stood up"
+    },
+    {
+      "gu": "Kem chho",
+      "en": "How are you"
+    },
+    {
+      "gu": "Majama chhu",
+      "en": "I am fine"
+    },
+    {
+      "gu": "Aavajo",
+      "en": "Come again   Used for good bye"
+    },
+    {
+      "gu": "Hu ramava jau chhu",
+      "en": "I am going out to play"
+    },
+    {
+      "gu": "Hu bahar jau chhu",
+      "en": "I am going out"
+    },
+    {
+      "gu": "Kutaro bhase chhe",
+      "en": "Dog is barking"
+    },
+    {
+      "gu": "Sunny sunghe chhe",
+      "en": "Sunny is sniffing"
+    },
+    {
+      "gu": "Mane bhukh lagi chhe",
+      "en": "I am hungry"
+    },
+    {
+      "gu": "Mare pani pivu chhe",
+      "en": "I want to drink water"
+    },
+    {
+      "gu": "Bus",
+      "en": "Enough"
+    },
+    {
+      "gu": "Hu thaki gayo chhu",
+      "en": "I am tired (male form)"
+    },
+    {
+      "gu": "Hu thaki gayi chhu",
+      "en": "I am tired (female form)"
+    }
+  ],
+  "colors": [
+    {
+      "en": "Red",
+      "male": "Lal",
+      "female": "Lal",
+      "neutral": "Lal",
+      "swatch": "#e7665c"
+    },
+    {
+      "en": "Green",
+      "male": "Lilo",
+      "female": "Lili",
+      "neutral": "Lilu",
+      "swatch": "#73ab76"
+    },
+    {
+      "en": "Blue",
+      "male": "Bhuro",
+      "female": "Bhuri",
+      "neutral": "Bhuru",
+      "swatch": "#648ad6"
+    },
+    {
+      "en": "Yellow",
+      "male": "Pilo",
+      "female": "Pili",
+      "neutral": "Pili",
+      "swatch": "#edc65c"
+    },
+    {
+      "en": "Black",
+      "male": "Kalo",
+      "female": "Kali",
+      "neutral": "Kalu",
+      "swatch": "#2f3549"
+    }
+  ],
+  "body": [
+    {
+      "gu": "Sharir",
+      "en": "Body"
+    },
+    {
+      "gu": "Hath",
+      "en": "Hand"
+    },
+    {
+      "gu": "Pug",
+      "en": "Foot"
+    },
+    {
+      "gu": "Mo",
+      "en": "Mouth"
+    },
+    {
+      "gu": "Naak",
+      "en": "Nose"
+    },
+    {
+      "gu": "Kaan",
+      "en": "Ear"
+    },
+    {
+      "gu": "Gaal",
+      "en": "Cheek"
+    },
+    {
+      "gu": "Hoth",
+      "en": "Lip"
+    },
+    {
+      "gu": "Jibh",
+      "en": "Tongue"
+    },
+    {
+      "gu": "Ankh",
+      "en": "Eye"
+    },
+    {
+      "gu": "Kiki",
+      "en": "Cornea"
+    },
+    {
+      "gu": "Pet",
+      "en": "Stomach"
+    },
+    {
+      "gu": "Mathu",
+      "en": "Head"
+    },
+    {
+      "gu": "Vaal",
+      "en": "Hair"
+    },
+    {
+      "gu": "Aangali",
+      "en": "Finger"
+    },
+    {
+      "gu": "Nukh",
+      "en": "Nail"
+    }
+  ],
+  "verbs": [
+    {
+      "en": "Walk",
+      "past": "Chaloo-M",
+      "present": "Chaluu(Chaloo) chhu",
+      "future": "Chalish"
+    },
+    {
+      "en": "Run",
+      "past": "Dodyo",
+      "present": "Doduchhu",
+      "future": "Dodish"
+    },
+    {
+      "en": "Eat",
+      "past": "Khadhu",
+      "present": "Khau chhu",
+      "future": "Khaish"
+    },
+    {
+      "en": "Go",
+      "past": "Gayo",
+      "present": "Jau chhu",
+      "future": "Jaish"
+    },
+    {
+      "en": "Come",
+      "past": "Aavyo",
+      "present": "Avon chhu",
+      "future": "Aavish"
+    },
+    {
+      "en": "Walk",
+      "past": "Chalyo",
+      "present": "Chalu chhu",
+      "future": "Chalish"
+    },
+    {
+      "en": "Play",
+      "past": "Ramyo",
+      "present": "Ramu chhu",
+      "future": "Ramish"
+    },
+    {
+      "en": "Sit",
+      "past": "Betho",
+      "present": "Beau chhu",
+      "future": "Besish"
+    },
+    {
+      "en": "Drink",
+      "past": "Pidhoo",
+      "present": "Piu chhu",
+      "future": "Pish"
+    },
+    {
+      "en": "Listen",
+      "past": "Sambhalyu",
+      "present": "Sambhalu chhu",
+      "future": "Sambhalish"
+    },
+    {
+      "en": "Think",
+      "past": "Vicharyoo",
+      "present": "Vichari chhu",
+      "future": "Vicharish"
+    },
+    {
+      "en": "Read",
+      "past": "Vanchyu",
+      "present": "Vanchu chhu",
+      "future": "Vanchish"
+    },
+    {
+      "en": "See",
+      "past": "Joyu",
+      "present": "Jou chhu",
+      "future": "Joish"
+    },
+    {
+      "en": "Live",
+      "past": "Rahu",
+      "present": "Rahe chhe",
+      "future": "Rahish"
+    },
+    {
+      "en": "Hurt",
+      "past": "Dukhyu",
+      "present": "Dukhe chhe",
+      "future": "Dukhashe"
+    },
+    {
+      "en": "Like",
+      "past": "Gamyu",
+      "present": "Game chhe",
+      "future": "Gamashe"
+    },
+    {
+      "en": "Like as  a taste",
+      "past": "Bhavyu",
+      "present": "Bhave chhe",
+      "future": "Bhavashe"
+    }
+  ],
+  "relatives": [
+    {
+      "gu": "Kaka",
+      "en": "Father's brother"
+    },
+    {
+      "gu": "Kaki",
+      "en": "Kaka's wife"
+    },
+    {
+      "gu": "Mama",
+      "en": "Mother's brother"
+    },
+    {
+      "gu": "Mami",
+      "en": "Mama's wife"
+    },
+    {
+      "gu": "Masi",
+      "en": "Mother's sister"
+    },
+    {
+      "gu": "Masa",
+      "en": "Masi's husband"
+    },
+    {
+      "gu": "Foi",
+      "en": "Father's sister"
+    },
+    {
+      "gu": "Fuwa",
+      "en": "Foi's husband"
+    },
+    {
+      "gu": "Bhatrijo",
+      "en": "Brother's son"
+    },
+    {
+      "gu": "Bhano",
+      "en": "Sister's son"
+    },
+    {
+      "gu": "Bhani",
+      "en": "Sister's daughter"
+    },
+    {
+      "gu": "Banevi",
+      "en": "Sister's husband"
+    },
+    {
+      "gu": "Bhabhi",
+      "en": "Brother's wife"
+    },
+    {
+      "gu": "Nanand",
+      "en": "Husband's sister"
+    },
+    {
+      "gu": "Sali",
+      "en": "Wife's sister"
+    },
+    {
+      "gu": "Salo",
+      "en": "Wife's brother"
+    },
+    {
+      "gu": "Sasu",
+      "en": "Mother in law"
+    },
+    {
+      "gu": "Sasara",
+      "en": "Father in law"
+    },
+    {
+      "gu": "Diyer",
+      "en": "Husband's younger brother"
+    },
+    {
+      "gu": "Derani",
+      "en": "Diyer's wife"
+    },
+    {
+      "gu": "Jeth",
+      "en": "Husband's older brother"
+    },
+    {
+      "gu": "Jethani",
+      "en": "Jeth's wife"
+    },
+    {
+      "gu": "Baa",
+      "en": "Mother"
+    },
+    {
+      "gu": "Mota Baa",
+      "en": "Grand mother"
+    }
+  ],
+  "numbers": [
+    {
+      "gu": "Ek ૧",
+      "en": "One"
+    },
+    {
+      "gu": "Be ૨",
+      "en": "Two"
+    },
+    {
+      "gu": "Trun ૩",
+      "en": "Three"
+    },
+    {
+      "gu": "Chaar   ૪",
+      "en": "Four"
+    },
+    {
+      "gu": "Panch   ૫",
+      "en": "Five"
+    },
+    {
+      "gu": "Cho   ૬",
+      "en": "Six"
+    },
+    {
+      "gu": "Saat   ૭",
+      "en": "Seven"
+    },
+    {
+      "gu": "Aath   ૮",
+      "en": "Eight"
+    },
+    {
+      "gu": "Nav   ૯",
+      "en": "Nine"
+    },
+    {
+      "gu": "Das   ૧૦",
+      "en": "Ten"
+    },
+    {
+      "gu": "Sau   ૧૦૦",
+      "en": "One hundred"
+    },
+    {
+      "gu": "Hazaar   ૧૦૦૦",
+      "en": "Thousand"
+    },
+    {
+      "gu": "Lakh ૧૦૦,૦૦૦",
+      "en": "One hundred thousand"
+    },
+    {
+      "gu": "Karod૧૦૦,૦૦૦,૦૦",
+      "en": "Ten millions"
+    }
+  ],
+  "calendar": [
+    {
+      "gu": "Ravi vaar",
+      "en": "Sunday"
+    },
+    {
+      "gu": "Som vaar",
+      "en": "Monday"
+    },
+    {
+      "gu": "Mangal vaar",
+      "en": "Tuesday"
+    },
+    {
+      "gu": "Budh vaar",
+      "en": "Wednesday"
+    },
+    {
+      "gu": "Guru vaar",
+      "en": "Thirsday"
+    },
+    {
+      "gu": "Shukra vaar",
+      "en": "Friday"
+    },
+    {
+      "gu": "Shani vaar",
+      "en": "Saturday"
+    },
+    {
+      "gu": "Mahino",
+      "en": "Month"
+    },
+    {
+      "gu": "Varas",
+      "en": "Year"
+    },
+    {
+      "gu": "Divas",
+      "en": "Day"
+    },
+    {
+      "gu": "Tarikh",
+      "en": "Day of the month"
+    },
+    {
+      "gu": "Vaar",
+      "en": "Day of the week"
+    },
+    {
+      "gu": "Shiyalo",
+      "en": "Winter"
+    },
+    {
+      "gu": "Oonalo",
+      "en": "Summer"
+    },
+    {
+      "gu": "Chomasu",
+      "en": "Monsoon"
+    },
+    {
+      "gu": "Vasant",
+      "en": "Spring"
+    }
+  ],
+  "animals": [
+    {
+      "gu": "Kutaro",
+      "en": "Dog 🐶"
+    },
+    {
+      "gu": "Kutari",
+      "en": "Dog 🐶"
+    },
+    {
+      "gu": "Bilado",
+      "en": "Cat 🐱"
+    },
+    {
+      "gu": "Biladi",
+      "en": "Cat 🐱"
+    },
+    {
+      "gu": "Bakari",
+      "en": "Goat 🐐"
+    },
+    {
+      "gu": "Vaagh",
+      "en": "Tiger 🐯"
+    },
+    {
+      "gu": "Sinh",
+      "en": "Lion 🦁"
+    },
+    {
+      "gu": "Haran",
+      "en": "Deer 🦌"
+    },
+    {
+      "gu": "Shiyal",
+      "en": "Fox 🦊"
+    }
+  ],
+  "names": [
+    {
+      "gu": "Jay",
+      "en": "Victory"
+    },
+    {
+      "gu": "Anisha",
+      "en": "Laxmi, Goddess of wealth"
+    },
+    {
+      "gu": "Vijay",
+      "en": "Special victory"
+    },
+    {
+      "gu": "Archna",
+      "en": "Act of worshipping god"
+    },
+    {
+      "gu": "Stavan",
+      "en": "Jain prayer"
+    },
+    {
+      "gu": "Abhishek",
+      "en": "Act of bathing god"
+    },
+    {
+      "gu": "Meena",
+      "en": "Special artwork"
+    },
+    {
+      "gu": "Alok",
+      "en": "Brightness"
+    },
+    {
+      "gu": "Omisa",
+      "en": "Female of  OM"
+    },
+    {
+      "gu": "Simaran",
+      "en": "Act of memorizing  related to remembering god"
+    },
+    {
+      "gu": "Kusum",
+      "en": "Flower"
+    },
+    {
+      "gu": "Arvind",
+      "en": "Lotus"
+    },
+    {
+      "gu": "Bhupendra",
+      "en": "King of kings"
+    },
+    {
+      "gu": "Pragnya",
+      "en": "Intellect"
+    },
+    {
+      "gu": "Nirav",
+      "en": "Very quiet"
+    }
+  ],
+  "notes": [
+    "In Gujarati, sentences use subject - object - verb.",
+    "The workbook notes 35 consonants and 11 vowels.",
+    "Male forms often end in -o; female forms in -i; neutral forms in -u.",
+    "Chhe is used for someone else; chhu is used for yourself."
+  ]
+}
